@@ -1,4 +1,4 @@
-#ALU_Advanced_Algebra
+# Advanced Linear Algebra
 
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
